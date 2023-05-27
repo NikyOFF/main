@@ -11,6 +11,7 @@ int main() {
     scanf("%i", &b);
 
     printf("\nSum: %d\n", a + b);
+    printf("Dif: %d\n", a - b);
 
     return 0;
 }
